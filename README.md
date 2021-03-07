@@ -12,9 +12,9 @@
 
 <br />
 
-***Try latest Expenso app apk from below 👇***
+<!---***Try latest Expenso app apk from below 👇*** -->
 
-[![Expenso](https://img.shields.io/badge/Expenso-APK-black.svg?style=for-the-badge&logo=android)](https://github.com/Spikeysanju/Expenso/releases/download/v1.0.0-alpha01/Expenso.apk)
+<!---[![Expenso](https://imgapk) -->
 
 <br />
 <br />
