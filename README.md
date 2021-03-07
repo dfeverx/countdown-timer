@@ -12,7 +12,7 @@
 <!---***Try latest Expenso app apk from below 👇*** -->
 
 <!---[![Expenso](https://imgapk) -->
-## :scroll: Description
+##  Description
 <!--- Describe your app in one or two sentences -->
 A simple time countdown application crated using jetpack compose ui and kotlin 
 
