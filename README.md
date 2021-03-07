@@ -7,14 +7,12 @@
 ![GitHub Cards Preview](https://github.com/dfeverx/countdown-timer/blob/main/showcase/banner.png?raw=true)
 
 
-<br />
+
 
 <!---***Try latest Expenso app apk from below 👇*** -->
 
 <!---[![Expenso](https://imgapk) -->
 
-<br />
-<br />
 
 ## Look like this
 Start Screen | While Counting | DarkMode On
