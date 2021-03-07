@@ -27,17 +27,38 @@ val typography = Typography(
         fontFamily = FontFamily.Default,
         fontWeight = FontWeight.Normal,
         fontSize = 16.sp
-    )
-        /* Other default text styles to override
-    button = TextStyle(
-        fontFamily = FontFamily.Default,
-        fontWeight = FontWeight.W500,
-        fontSize = 14.sp
     ),
-    caption = TextStyle(
-        fontFamily = FontFamily.Default,
-        fontWeight = FontWeight.Normal,
-        fontSize = 12.sp
+    h1 = TextStyle(
+        fontSize = 96.sp,
+        letterSpacing = (-1.5).sp,
+        fontWeight = FontWeight.Bold,
+    ),
+    h2 = TextStyle(
+        fontWeight = FontWeight.Bold,
+        fontSize = 60.sp,
+        letterSpacing = (-0.5).sp
+    ),
+    h3 = TextStyle(
+        fontSize = 48.sp,
+        letterSpacing = 0.sp,
+        fontWeight = FontWeight.Bold,
+    ),
+    h4 = TextStyle(
+        fontSize = 34.sp,
+        letterSpacing = 0.25.sp,
+        fontWeight = FontWeight.Bold,
     )
-    */
+
+    /* Other default text styles to override
+button = TextStyle(
+    fontFamily = FontFamily.Default,
+    fontWeight = FontWeight.W500,
+    fontSize = 14.sp
+),
+caption = TextStyle(
+    fontFamily = FontFamily.Default,
+    fontWeight = FontWeight.Normal,
+    fontSize = 12.sp
+)
+*/
 )
