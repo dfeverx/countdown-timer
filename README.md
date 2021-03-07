@@ -17,7 +17,7 @@
 A simple time countdown application crated using jetpack compose ui and kotlin 
 
 
-## Look like this
+## Screenshots
 Start Screen | While Counting | DarkMode On
 --- | --- | ---
 ![](https://github.com/dfeverx/countdown-timer/blob/main/showcase/0001-17910407801_20210307_124840_0000.png) | ![](https://github.com/dfeverx/countdown-timer/blob/main/showcase/0001-17910422917_20210307_124918_0000.png) | ![](https://github.com/dfeverx/countdown-timer/blob/main/showcase/0001-17887972125_20210306_215936_0000.png) 
