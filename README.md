@@ -1,9 +1,37 @@
-# Tick Countdown Timer Android
+# Tick Tick
+![GitHub Cards Preview](https://github.com/Spikeysanju/Expenso/blob/master/art/EXPENSO-ANDROID.png?raw=true)
+
+
+
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
 ![Workflow result](https://github.com/dfeverx/countdown-timer/workflows/Check/badge.svg)
 
+
+
+<br />
+
+***Try latest Expenso app apk from below 👇***
+
+[![Expenso](https://img.shields.io/badge/Expenso-APK-black.svg?style=for-the-badge&logo=android)](https://github.com/Spikeysanju/Expenso/releases/download/v1.0.0-alpha01/Expenso.apk)
+
+<br />
+<br />
+
+## Day Mode 🌞
+Dashboard | All Income | All Expense | Details | Add Transaction 
+--- | --- | --- |--- |--- 
+![](https://github.com/Spikeysanju/Expenso/blob/master/art/DASHBOARD.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/INCOME.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/EXPENSE.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/DETAILS.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/ADD-TRANSACTION.png) 
+
+<br />
+
+## We Support Dark Mode Too 🌚
+Dashboard | All Income | All Expense | Details | Add Transaction 
+--- | --- | --- |--- |--- 
+![](https://github.com/Spikeysanju/Expenso/blob/master/art/DARK-DASHBOARD.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/DARK-INCOME.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/DARK-EXPENSE.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/DARK-DETAILS.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/DARK-ADD-TRANSACTION.png) 
+
+<br />
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
