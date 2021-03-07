@@ -1,6 +1,6 @@
 # Tick Countdown Timer Android
 
--->
+[![GitHub Issues](https://img.shields.io/github/issues/anfederico/Clairvoyant.svg)](https://github.com/dfeverx/countdown-timer/issues)
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
