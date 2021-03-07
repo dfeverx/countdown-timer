@@ -1,5 +1,5 @@
 # Tick Tick
-![GitHub Cards Preview](https://github.com/Spikeysanju/Expenso/blob/master/art/EXPENSO-ANDROID.png?raw=true)
+![GitHub Cards Preview](https://github.com/dfeverx/countdown-timer/blob/main/showcase/banner.png?raw=true)
 
 
 
@@ -20,16 +20,15 @@
 <br />
 
 ## Day Mode 🌞
-Dashboard | All Income | All Expense | Details | Add Transaction 
---- | --- | --- |--- |--- 
-![](https://github.com/Spikeysanju/Expenso/blob/master/art/DASHBOARD.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/INCOME.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/EXPENSE.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/DETAILS.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/ADD-TRANSACTION.png) 
-
+Start Screen | While Counting
+--- | --- 
+![](https://github.com/dfeverx/countdown-timer/blob/main/showcase/0001-17910407801_20210307_124840_0000.png) | ![](https://github.com/dfeverx/countdown-timer/blob/main/showcase/0001-17910422917_20210307_124918_0000.png) 
 <br />
 
 ## We Support Dark Mode Too 🌚
-Dashboard | All Income | All Expense | Details | Add Transaction 
---- | --- | --- |--- |--- 
-![](https://github.com/Spikeysanju/Expenso/blob/master/art/DARK-DASHBOARD.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/DARK-INCOME.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/DARK-EXPENSE.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/DARK-DETAILS.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/DARK-ADD-TRANSACTION.png) 
+DarkMode On 
+--- 
+![](https://github.com/dfeverx/countdown-timer/blob/main/showcase/0001-17887972125_20210306_215936_0000.png) 
 
 <br />
 
