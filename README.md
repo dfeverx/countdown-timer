@@ -19,24 +19,20 @@
 <br />
 <br />
 
-## Day Mode 🌞
-Start Screen | While Counting
---- | --- 
-![](https://github.com/dfeverx/countdown-timer/blob/main/showcase/0001-17910407801_20210307_124840_0000.png) | ![](https://github.com/dfeverx/countdown-timer/blob/main/showcase/0001-17910422917_20210307_124918_0000.png) 
+## Look like this
+Start Screen | While Counting | DarkMode On
+--- | --- | ---
+![](https://github.com/dfeverx/countdown-timer/blob/main/showcase/0001-17910407801_20210307_124840_0000.png) | ![](https://github.com/dfeverx/countdown-timer/blob/main/showcase/0001-17910422917_20210307_124918_0000.png) | ![](https://github.com/dfeverx/countdown-timer/blob/main/showcase/0001-17887972125_20210306_215936_0000.png) 
 <br />
 
-## We Support Dark Mode Too 🌚
-DarkMode On 
---- 
-![](https://github.com/dfeverx/countdown-timer/blob/main/showcase/0001-17887972125_20210306_215936_0000.png) 
 
-<br />
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
+A simple time countdown application crated using jetpack compose ui and kotlin 
 
 
-## :bulb: Motivation and Context
+<!--## :bulb: Motivation and Context-->
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
 
