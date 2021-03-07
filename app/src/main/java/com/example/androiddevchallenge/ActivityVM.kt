@@ -16,18 +16,15 @@
 package com.example.androiddevchallenge
 
 import android.os.CountDownTimer
-import android.util.Log
 import androidx.compose.runtime.mutableStateOf
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
-import androidx.lifecycle.SavedStateHandle
 import androidx.lifecycle.ViewModel
 import dagger.hilt.android.lifecycle.HiltViewModel
 import javax.inject.Inject
 
 @HiltViewModel
-class ActivityVM @Inject constructor(val state: SavedStateHandle) : ViewModel() {
-    private val TAG = "ActivityVM"
+class ActivityVM @Inject constructor() : ViewModel() {
     val timmerIdle = mutableStateOf(true)
 
     val time: LiveData<TickTime> get() = _time
@@ -35,14 +32,12 @@ class ActivityVM @Inject constructor(val state: SavedStateHandle) : ViewModel() 
         by lazy {
         MutableLiveData<TickTime>()
     }
-    var timer: CountDownTimer? = null
+    private var timer: CountDownTimer? = null
 
     fun startCountDown(h: Int, m: Int, s: Int) {
-        Log.d(TAG, "startCountDown: $h,$m,$s")
         timmerIdle.value = false
 
         val inMilli = (s * 1000 + m * 60 * 1000 + h * 60 * 60 * 1000).toLong()
-        Log.d(TAG, "startCountDown: inMilli $inMilli")
         timer = object : CountDownTimer(inMilli, 1000) {
             override fun onTick(millisUntilFinished: Long) {
                 val inSec = millisUntilFinished / 1000
@@ -78,7 +73,7 @@ class ActivityVM @Inject constructor(val state: SavedStateHandle) : ViewModel() 
 }
 
 fun splitToComponentTimes(biggy: Long): IntArray {
-    val longVal: Long = biggy.toLong()
+    val longVal: Long = biggy
     val hours = longVal.toInt() / 3600
     var remainder = longVal.toInt() - hours * 3600
     val mins = remainder / 60

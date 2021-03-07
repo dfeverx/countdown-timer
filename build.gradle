@@ -35,6 +35,7 @@ buildscript {
 
 plugins {
     id 'com.diffplug.spotless' version '5.7.0'
+    id "org.jlleitschuh.gradle.ktlint" version '10.0.0'
 }
 
 subprojects {
@@ -47,6 +48,7 @@ subprojects {
     }
 
     apply plugin: 'com.diffplug.spotless'
+    apply plugin: "org.jlleitschuh.gradle.ktlint-idea"
     spotless {
         kotlin {
             target '**/*.kt'

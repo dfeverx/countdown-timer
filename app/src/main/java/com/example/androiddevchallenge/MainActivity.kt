@@ -179,7 +179,7 @@ fun FixedBottom(idle: Boolean = true, start: () -> Unit, pause: () -> Unit, stop
 
 @ExperimentalAnimationApi
 @Composable
-fun TimeLine(count: Int, label: String, state: LazyListState, isEnabled: Boolean = true) {
+fun TimeLine(count: Int, label: String, state: LazyListState) {
 
     Column {
         Text(
