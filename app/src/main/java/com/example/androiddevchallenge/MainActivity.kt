@@ -16,7 +16,6 @@
 package com.example.androiddevchallenge
 
 import android.os.Bundle
-import android.util.Log
 import androidx.activity.compose.setContent
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
