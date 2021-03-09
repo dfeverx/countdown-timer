@@ -15,7 +15,7 @@
 
 <!--- Describe your app in one or two sentences -->
 
-A simple time countdown application crated using jetpack compose ui and kotlin
+A simple time countdown application created using jetpack compose ui and kotlin
 
 ## Screenshots
 
