@@ -85,7 +85,9 @@ fun MyApp(mainViewModel: ActivityVM, time: State<TickTime?>) {
         scope.launch { secState.scrollToItem(it.seconds) }
     }
 
-    Surface(color = MaterialTheme.colors.background) {
+    Surface(
+        color = MaterialTheme.colors.background
+    ) {
         Column(
             modifier = Modifier
                 .fillMaxHeight()
@@ -119,7 +121,7 @@ fun MyApp(mainViewModel: ActivityVM, time: State<TickTime?>) {
 }
 
 @Composable
-fun FixedBottom(idle: Boolean = true, start: () -> Unit, pause: () -> Unit, stop: () -> Unit) {
+fun FixedBottom(idle: Boolean/* = true*/, start: () -> Unit, pause: () -> Unit, stop: () -> Unit) {
     Row(
         modifier = Modifier
 
